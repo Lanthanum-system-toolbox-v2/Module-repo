@@ -1,35 +1,10 @@
 !repo
-
-!module
-title=虚拟键/MIUI全面屏手势控制
-subtitle=调整虚拟键相关配置
-author=@xzr467706992
-name=virtual_key
-link=https://raw.githubusercontent.com/xzr467706992/Lanthanum_system_toolbox_v2/module_repo/virtual_key
-!module
-
 !module
 title=叹号杀手
 subtitle=调整叹号相关配置
 author=@xzr467706992
 name=captive_mng
 link=https://raw.githubusercontent.com/xzr467706992/Lanthanum_system_toolbox_v2/module_repo/captive_mng
-!module
-
-!module
-title=动态链接库优化警告开关
-subtitle=某些应用在打开时会显示一个奇怪的弹窗（内容包含：detected problems with app native libraries）。使用这个模块可以开启/关闭它。
-author=@xzr467706992
-name=solib_warning
-link=https://raw.githubusercontent.com/xzr467706992/Lanthanum_system_toolbox_v2/module_repo/solib_warning
-!module
-
-!module
-title=禁用Xposed框架日志
-subtitle=禁用日志以提高性能
-author=@xzr467706992
-name=xplog
-link=https://raw.githubusercontent.com/xzr467706992/Lanthanum_system_toolbox_v2/module_repo/xplog
 !module
 
 !module
@@ -49,14 +24,6 @@ link=https://raw.githubusercontent.com/xzr467706992/Lanthanum_system_toolbox_v2/
 !module
 
 !module
-title=启动系统界面调谐器
-subtitle=aosp自带的隐藏系统界面修改工具（例如你可以在里面打开耳机状态栏标识）（需要工具箱B7+)
-author=@xzr467706992
-name=systemui_turner
-link=https://raw.githubusercontent.com/xzr467706992/Lanthanum_system_toolbox_v2/module_repo/systemui_turner
-!module
-
-!module
 title=efs写入接口配置
 subtitle=配置用于写入efs分区的接口状态
 author=@永义王
@@ -73,27 +40,11 @@ link=https://raw.githubusercontent.com/xzr467706992/Lanthanum_system_toolbox_v2/
 !module
 
 !module
-title=隐藏的通知日志
-subtitle=启动隐藏的通知日志页面（需要工具箱B7+)
-author=@xzr467706992
-name=noti_station
-link=https://raw.githubusercontent.com/xzr467706992/Lanthanum_system_toolbox_v2/module_repo/noti_station
-!module
-
-!module
 title=电池优化界面
 subtitle=打开电池优化界面。这个界面在某些设备上藏得很深或者根本就难以打开。（需要工具箱B7+)
 author=@xzr467706992
 name=highpower_app_activity
 link=https://raw.githubusercontent.com/xzr467706992/Lanthanum_system_toolbox_v2/module_repo/highpower_app_activity
-!module
-
-!module
-title=【高级重启】9008模式
-subtitle=[适用于工具箱2.0.0B3+]为高通设备重启到9008（edl）模式提供接口
-author=@xzr467706992
-name=reboot_edl
-link=https://raw.githubusercontent.com/xzr467706992/Lanthanum_system_toolbox_v2/module_repo/reboot_edl
 !module
 
 !module
