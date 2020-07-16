@@ -4,7 +4,7 @@ title=叹号杀手
 subtitle=调整叹号相关配置
 author=@xzr467706992
 name=captive_mng
-link=https://raw.githubusercontent.com/Lanthanum-system-toolbox-v2/Module-repo/module_repo/captive_mng
+link=https://la.xzr.kim:668/Module-repo/captive_mng
 !module
 
 !module
@@ -12,7 +12,7 @@ title=MIUI刘海屏控制
 subtitle=配置刘海屏开关
 author=@xzr467706992
 name=miui_notch
-link=https://raw.githubusercontent.com/Lanthanum-system-toolbox-v2/Module-repo/module_repo/miui_notch
+link=https://la.xzr.kim:668/Module-repo/miui_notch
 !module
 
 !module
@@ -20,7 +20,7 @@ title=启动P-sGSI上的设置向导
 subtitle=再次启动P-sGSI上的设置向导[假如你错过了指纹设置]（需要工具箱B7+)
 author=@xzr467706992
 name=pixelsetup
-link=https://raw.githubusercontent.com/Lanthanum-system-toolbox-v2/Module-repo/module_repo/pixelsetup
+link=https://la.xzr.kim:668/Module-repo/pixelsetup
 !module
 
 !module
@@ -28,7 +28,7 @@ title=efs写入接口配置
 subtitle=配置用于写入efs分区的接口状态
 author=@永义王
 name=efs_interface
-link=https://raw.githubusercontent.com/Lanthanum-system-toolbox-v2/Module-repo/module_repo/efs_interface
+link=https://la.xzr.kim:668/Module-repo/efs_interface
 !module
 
 !module
@@ -36,7 +36,7 @@ title=骁龙652核心全开
 subtitle=解决骁龙652只有两个a72在线的问题
 author=@xzr467706992
 name=sd652_corectl
-link=https://raw.githubusercontent.com/Lanthanum-system-toolbox-v2/Module-repo/module_repo/sd652_corectl
+link=https://la.xzr.kim:668/Module-repo/sd652_corectl
 !module
 
 !module
@@ -44,7 +44,7 @@ title=电池优化界面
 subtitle=打开电池优化界面。这个界面在某些设备上藏得很深或者根本就难以打开。（需要工具箱B7+)
 author=@xzr467706992
 name=highpower_app_activity
-link=https://raw.githubusercontent.com/Lanthanum-system-toolbox-v2/Module-repo/module_repo/highpower_app_activity
+link=https://la.xzr.kim:668/Module-repo/highpower_app_activity
 !module
 
 !module
@@ -52,7 +52,7 @@ title=高通热插拔驱动控制
 subtitle=适用于80x 81x 600等旧处理器的热插拔驱动控制
 author=@xzr467706992
 name=msm_hotplug
-link=https://raw.githubusercontent.com/Lanthanum-system-toolbox-v2/Module-repo/module_repo/msm_hotplug
+link=https://la.xzr.kim:668/Module-repo/msm_hotplug
 !module
 
 !module
@@ -60,7 +60,7 @@ title=旧版的高通删温控
 subtitle=直接删除温控二进制文件
 author=@xzr467706992
 name=qthermal_old
-link=https://raw.githubusercontent.com/Lanthanum-system-toolbox-v2/Module-repo/module_repo/qthermal_old
+link=https://la.xzr.kim:668/Module-repo/qthermal_old
 !module
 
 !module
@@ -68,7 +68,7 @@ title=旧版的锁核心
 subtitle=启动旧版的锁核心页面（需要工具箱B7+)
 author=@xzr467706992
 name=lockcore_old
-link=https://raw.githubusercontent.com/Lanthanum-system-toolbox-v2/Module-repo/module_repo/lockcore_old
+link=https://la.xzr.kim:668/Module-repo/lockcore_old
 !module
 
 !repo
