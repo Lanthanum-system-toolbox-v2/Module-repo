@@ -71,4 +71,12 @@ name=lockcore_old
 link=https://la.xzr.kim:668/Module-repo/lockcore_old
 !module
 
+!module
+title=mac地址修改
+subtitle=适用于一小部分设备的mac地址修改功能（大概率无法正常工作）
+author=@xzr467706992
+name=mac_change
+link=https://la.xzr.kim:668/Module-repo/mac_change
+!module
+
 !repo
