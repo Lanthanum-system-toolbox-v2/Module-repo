@@ -95,4 +95,12 @@ name=sysui_rounded_size
 link=https://la.xzr.kim:668/Module-repo/sysui_rounded_size
 !module
 
+!module
+title=新的状态栏媒体播放样式
+subtitle=开启/关闭 Android R所引入的全新状态栏媒体播放样式
+author=@xzr467706992
+name=qs_media_player
+link=https://la.xzr.kim:668/Module-repo/qs_media_player
+!module
+
 !repo

@@ -1,0 +1,39 @@
+!module
+class=extra
+!view
+view=title
+text=新的状态栏媒体播放样式
+@show
+echo true
+@show
+!view
+
+!view
+view=subtitle
+text=开启/关闭 Android R所引入的全新状态栏媒体播放样式
+@show
+echo true
+@show
+!view
+
+!view
+view=switch
+text=开启
+@show
+echo true
+@show
+root=true
+core=true
+@current
+if [ "`settings get global qs_media_player`" == "1" ]
+then
+echo true
+fi
+@current
+@click
+settings put global qs_media_player $switch
+@click
+
+!view
+
+!module
