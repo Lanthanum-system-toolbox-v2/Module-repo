@@ -1,0 +1,51 @@
+!module
+class=extra
+
+!view
+view=title
+text=屏幕圆角修改
+@show
+echo true
+@show
+!view
+
+!view
+view=subtitle
+text=修改屏幕的圆角尺寸（仅适用于Pie+的类原生系统）
+@show
+echo true
+@show
+!view
+
+!view
+view=edittext
+text=圆角尺寸：
+@show
+echo true
+@show
+
+@current
+num=`settings get secure sysui_rounded_size`
+if [ "${num}" == "null" ]
+then
+echo ""
+else
+echo ${num}
+fi
+@current
+
+@done
+if [ "${edittext}" == "" ]
+then
+settings delete secure sysui_rounded_size > /dev/null
+else
+settings put secure sysui_rounded_size ${edittext}
+fi
+@done
+
+root=true
+core=true
+hint=默认
+!view
+
+!module

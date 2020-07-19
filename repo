@@ -87,4 +87,12 @@ name=sysui_content_padding
 link=https://la.xzr.kim:668/Module-repo/sysui_content_padding
 !module
 
+!module
+title=屏幕圆角修改
+subtitle=修改屏幕显示区域的圆角尺寸（仅适用于Pie+的类原生系统）
+author=@xzr467706992
+name=sysui_rounded_size
+link=https://la.xzr.kim:668/Module-repo/sysui_rounded_size
+!module
+
 !repo
