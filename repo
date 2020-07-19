@@ -79,4 +79,12 @@ name=mac_change
 link=https://la.xzr.kim:668/Module-repo/mac_change
 !module
 
+!module
+title=状态栏图标边缘距离修改
+subtitle=修改状态栏图标距离左右边缘的距离（仅适用于Pie+的类原生系统）
+author=@xzr467706992
+name=sysui_content_padding
+link=https://la.xzr.kim:668/Module-repo/sysui_content_padding
+!module
+
 !repo
