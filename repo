@@ -103,4 +103,11 @@ name=qs_media_player
 link=https://la.xzr.kim:668/Module-repo/qs_media_player
 !module
 
+!module
+title=KCAL屏幕调色
+subtitle=调整屏幕RGB值、亮度、饱和度、对比度等参数
+author=@xzr467706992
+name=kcal
+link=https://la.xzr.kim:668/Module-repo/kcal
+!module
 !repo
